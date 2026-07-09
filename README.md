@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/kmnayeem/leetcode-solution/tree/master/0509-fibonacci-number) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kmnayeem/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/kmnayeem/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
