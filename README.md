@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmnayeem/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/kmnayeem/leetcode-solution/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
