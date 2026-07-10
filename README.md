@@ -28,11 +28,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmnayeem/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/kmnayeem/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/kmnayeem/leetcode-solution/tree/master/0876-middle-of-the-linked-list) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmnayeem/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/kmnayeem/leetcode-solution/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
