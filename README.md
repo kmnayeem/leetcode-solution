@@ -42,9 +42,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/kmnayeem/leetcode-solution/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/kmnayeem/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/kmnayeem/leetcode-solution/tree/master/0520-detect-capital) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/kmnayeem/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kmnayeem/leetcode-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/kmnayeem/leetcode-solution/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/kmnayeem/leetcode-solution/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
