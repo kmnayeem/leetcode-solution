@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmnayeem/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/kmnayeem/leetcode-solution/tree/master/0283-move-zeroes) |
+| [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/kmnayeem/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/kmnayeem/leetcode-solution/tree/master/1108-defanging-an-ip-address) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kmnayeem/leetcode-solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
 ## Bit Manipulation
 |  |
 | ------- |
