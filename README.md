@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/kmnayeem/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kmnayeem/leetcode-solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
+| [1859-sorting-the-sentence](https://github.com/kmnayeem/leetcode-solution/tree/master/1859-sorting-the-sentence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/kmnayeem/leetcode-solution/tree/master/0389-find-the-difference) |
+| [1859-sorting-the-sentence](https://github.com/kmnayeem/leetcode-solution/tree/master/1859-sorting-the-sentence) |
 ## Simulation
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kmnayeem/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/kmnayeem/leetcode-solution/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
