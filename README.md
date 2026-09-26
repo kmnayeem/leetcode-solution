@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/kmnayeem/leetcode-solution/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/kmnayeem/leetcode-solution/tree/master/1859-sorting-the-sentence) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/kmnayeem/leetcode-solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/kmnayeem/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/kmnayeem/leetcode-solution/tree/master/0771-jewels-and-stones) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/kmnayeem/leetcode-solution/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Sorting
 |  |
 | ------- |
