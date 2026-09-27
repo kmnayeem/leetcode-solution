@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmnayeem/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/kmnayeem/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmnayeem/leetcode-solution/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
 | [1859-sorting-the-sentence](https://github.com/kmnayeem/leetcode-solution/tree/master/1859-sorting-the-sentence) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kmnayeem/leetcode-solution/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmnayeem/leetcode-solution/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/kmnayeem/leetcode-solution/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/kmnayeem/leetcode-solution/tree/master/0771-jewels-and-stones) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/kmnayeem/leetcode-solution/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmnayeem/leetcode-solution/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/kmnayeem/leetcode-solution/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/kmnayeem/leetcode-solution/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Bubble Sort
 |  |
 | ------- |
