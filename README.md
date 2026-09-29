@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kmnayeem/leetcode-solution/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kmnayeem/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
+| [1652-defuse-the-bomb](https://github.com/kmnayeem/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/kmnayeem/leetcode-solution/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kmnayeem/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Sliding Window
+|  |
+| ------- |
+| [1652-defuse-the-bomb](https://github.com/kmnayeem/leetcode-solution/tree/master/1652-defuse-the-bomb) |
 <!---LeetCode Topics End-->
