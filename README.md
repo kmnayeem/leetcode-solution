@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kmnayeem/leetcode-solution/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/kmnayeem/leetcode-solution/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/kmnayeem/leetcode-solution/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0908-smallest-range-i](https://github.com/kmnayeem/leetcode-solution/tree/master/0908-smallest-range-i) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kmnayeem/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/kmnayeem/leetcode-solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kmnayeem/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/kmnayeem/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0908-smallest-range-i](https://github.com/kmnayeem/leetcode-solution/tree/master/0908-smallest-range-i) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kmnayeem/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-shuffle-string](https://github.com/kmnayeem/leetcode-solution/tree/master/1528-shuffle-string) |
 | [1652-defuse-the-bomb](https://github.com/kmnayeem/leetcode-solution/tree/master/1652-defuse-the-bomb) |
